@@ -5,3 +5,4 @@ tensorflow>=2.6.0
 matplotlib>=3.4.0
 joblib>=1.0.0
 streamlit>=1.0.0
+seaborn
